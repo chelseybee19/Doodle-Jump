@@ -1,11 +1,11 @@
 .grid{
     width: 420px;
     height: 600px;
-    background-color:teal;
     background-image: url('clouds.jpg');
     position: relative;
     font-size: 100px;
     text-align: center;
+    color: yellow;
 }
 
 .doodler{
