@@ -1,14 +1,16 @@
 .grid{
     width: 400px;
     height: 600px;
-    background-color: yellow;
+    background-color:teal;
     position: relative;
+    font-size: 100px;
+    text-align: center;
 }
 
 .doodler{
-    width: 65px;
+    width: 90px;
     height: 85px;
-    background-color: turquoise;
+    background-image: url('blackcat.png');
     position: absolute;
 }
  
